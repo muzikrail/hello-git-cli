@@ -1,3 +1,6 @@
 hello git
 second
+<<<<<<< HEAD
 third
+=======
+>>>>>>> 720f753 (세컨드 추가)
